@@ -1,7 +1,6 @@
 #--------------------------------------#
 #---Compute zeros of half-integer order Bessel functions Jn------#
 #---That's the so called zeros of spherical Bessel function------#
-#---Khaled Said (k.saidahmedsoliman@uq.edu.au)-------------------#
 import scipy
 from scipy import special as ss
 from scipy import optimize
